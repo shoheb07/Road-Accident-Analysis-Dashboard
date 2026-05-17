@@ -1,0 +1,11 @@
+Accident_ID
+Date
+Time
+Location
+Vehicle_Type
+Accident_Severity
+Weather_Condition
+Road_Condition
+Casualties
+Latitude
+Longitude
